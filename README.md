@@ -1,25 +1,94 @@
-# 💫 About Me:
- Hi there 👋 I'm Roshan Kanojiya  <br>- 🔭 I'm currently working on building AI agents and automation workflows with n8n.  <br>- 🤝 I'm looking to collaborate on open-source AI/ML projects and creative automation tools.  <br>- ❓ I'm looking for help with scaling LLM-based chatbots for real-world use.  <br>- 🌱 I'm currently learning Python, Machine Learning, and cloud platforms (Azure, Oracle, NVIDIA).  <br>- 💬 Ask me about AI app prototyping, automation hacks, or using AI efficiently on a budget.  <br>- ⚡ Fun fact: I once turned a 3D model into an AR experience just by generating a QR code.  
+# ⚡ Roshan Kanojiya
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=System+Designer;AI+Orchestration+Engineer;20%2B+Production+Workflows+Built;Solving+Problems+with+Code" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Roshan.sama30) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roshankanojiya13@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Roshan30-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Roshan30-git&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan30-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Roshan30-git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Surat%2C%20India-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93-B.E.%20Computer%20Engineering-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%E2%9A%A1-System%20Designer-yellow?style=for-the-badge" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Roshan30-git&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@kachua30) 
+### 🚀 About Me
+I'm a **System Designer** specializing in **AI-Powered Distributed Systems & Orchestration**. I design **deterministic, production-ready** systems that bridge the gap between AI models (LLMs) and real-world data pipelines.
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔭 **Currently Building**: Advanced AI agents and production-grade orchestration pipelines.
+- ⚙️ **Specialty**: Event-driven design (Triggers → Orchestrator → Analyzers), **Idempotency**, **Retries/Backoff**, and **DLQ**.
+- 📈 **Impact**: Delivered 20+ automation projects with **50–70% reduction** in manual effort.
+- 🎓 **Education**: Final Year Computer Engineering @ SSASIT, Surat.
+- 🤝 **Collaboration**: Open to internships, startups, and collaborative engineering roles.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+#### **Systems & Orchestration**
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Event--Driven_Design-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API_Gateway-4B3261?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pub/Sub-FF9900?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
+
+#### **AI & Machine Learning**
+<p align="left">
+  <img src="https://img.shields.io/badge/RAG_Systems-8E75B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_DBs_(FAISS/Weaviate)-3178C6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semantic_Chunking-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-3776AB?style=for-the-badge" />
+</p>
+
+#### **Frontend & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roshan30-git&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Roshan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan30-git&theme=radical&hide_border=true" alt="Roshan's Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan30-git&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **Meta Ad Automation** | 54-node n8n orchestration for ad ops. | [view](https://github.com/roshan30-git/ROSHAN-portfolio/tree/main/n8n%20workflows) |
+| **GTU-DT-CANVAS** | Interactive workspace for Design Thinking. | [live](https://gtu-dt-canvas.vercel.app/) |
+| **SemesterScan** | Privacy-first AI organizer for academic content. | [live](https://semester-scan.vercel.app/) |
+| **Gamma Studio** | Tooling for watermark removal and document ops. | [live](https://gamma-studio-watermark-remover-001.streamlit.app/) |
+
+---
+
+### 🏆 Achievements
+- **18+ Google Cloud Skill Badges**: Including GenAI, Vertex AI, and Cloud Architecture.
+- **54-Node Workflow**: Designed and operationalized complex Meta Ads automation.
+- **20+ Production Systems**: Built and deployed various automation tools.
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="mailto:roshankanojiya13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/roshankanojiya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linktr.ee/Roshan_Kanojiya"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=roshan30-git&color=pink&style=flat-square" alt="Profile Views" />
+</div>
