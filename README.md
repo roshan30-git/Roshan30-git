@@ -54,16 +54,16 @@ I design and implement **production-ready systems** that orchestrate APIs, LLMs,
 ### 📈 GitHub Ecosystem
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roshan30-git&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Roshan30-git&theme=radical&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshan30-git&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan30-git&theme=tokyonight" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Roshan30-git&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshan30-git&theme=radical" alt="Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan30-git&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan30-git&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 ---
@@ -111,5 +111,5 @@ I design and implement **production-ready systems** that orchestrate APIs, LLMs,
   <br/>
   <a href="https://visitcount.itsvg.in/api?id=Roshan30-git&icon=0&color=0"><img src="https://visitcount.itsvg.in/api?id=Roshan30-git&icon=0&color=0" alt="Visit Count" /></a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=roshan30-git&color=FF7FAD&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Roshan30-git&color=FF7FAD&style=flat-square" alt="Profile Views" />
 </div>
