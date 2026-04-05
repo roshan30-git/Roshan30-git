@@ -63,7 +63,7 @@ I design and implement **production-ready systems** that orchestrate APIs, LLMs,
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshan30-git&theme=radical&hide_border=true&background=0D1117&currStreakNum=FF7FAD&sideNums=58A6FF" alt="GitHub Streak Stats" width="100%" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Roshan30-git&theme=dark" alt="GitHub Streak" width="100%" /></a>
 </div>
 
 <div align="center">
