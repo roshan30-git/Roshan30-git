@@ -55,19 +55,19 @@ I design and implement **production-ready systems** that orchestrate APIs, LLMs,
 ## 📈 GitHub Ecosystem
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Roshan30-git&theme=radical&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Roshan30-git&theme=radical&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshan30-git&show_icons=true&theme=radical&count_private=true&bg_color=0D1117&text_color=FFFFFF&hide_border=true" alt="Stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Roshan30-git&show_icons=true&theme=radical&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=58A6FF&title_color=FF7FAD&hide_border=true" alt="GitHub Stats" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshan30-git&theme=radical&hide_border=true&background=0D1117" alt="Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshan30-git&theme=radical&hide_border=true&background=0D1117&currStreakNum=FF7FAD&sideNums=58A6FF" alt="GitHub Streak Stats" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan30-git&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF" alt="Top Langs" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan30-git&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=58A6FF&title_color=FF7FAD" alt="Top Languages" width="100%" />
 </div>
 
 ---
