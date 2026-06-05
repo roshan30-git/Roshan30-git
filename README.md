@@ -158,7 +158,7 @@ An AI-native visual learning platform designed to reduce cognitive load by trans
     </td>
     <td width="33.3%" align="center">
       <a href="https://gamma-studio-watermark-remover-001.streamlit.app/">
-        <img src="https://freeimage.host/i/Cf9wmzb" width="100%" alt="Gamma Watermark Remover" /><br/>
+        <img src="https://iili.io/Cf9wmzb.jpg" width="100%" alt="Gamma Watermark Remover" /><br/>
         <b>🧹 Gamma Watermark Remover</b>
       </a>
       <br/><em>Local-first PDF/PPTX watermark cleaner</em>
@@ -241,11 +241,21 @@ An AI-native visual learning platform designed to reduce cognitive load by trans
 
 <div align="center">
 
-`<a href="https://roshan30-git.github.io/ROSHAN-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />``</a>`
-`<a href="https://www.linkedin.com/in/roshankanojiya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />``</a>`
-`<a href="https://linktr.ee/Roshan_Kanojiya"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black" />``</a>`
-`<a href="https://github.com/roshan30-git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />``</a>`
-`<a href="mailto:roshankanojiya13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />``</a>`
+<a href="https://roshan30-git.github.io/ROSHAN-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=webauthn&logoColor=FF7FAD" />
+</a>
+<a href="https://www.linkedin.com/in/roshankanojiya/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://linktr.ee/Roshan_Kanojiya">
+  <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black" />
+</a>
+<a href="https://github.com/roshan30-git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:roshankanojiya13@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
