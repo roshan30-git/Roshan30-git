@@ -1,153 +1,260 @@
-# <div align="center">⚡ Roshan Kanojiya</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=28&pause=1000&color=FF7FAD&center=true&vCenter=true&width=600&lines=System+Designer;AI+Orchestration+Engineer;Deterministic+Systems;Production-Ready+Workflows" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Roshan%20Kanojiya&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Product%20Architect%20%E2%80%A2%20Cognitive%20Systems%20Builder%20%E2%80%A2%20Creative%20Technologist&descAlignY=58&descSize=16" />
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1200&color=FF7FAD&center=true&vCenter=true&width=800&lines=Building+Diagrammatics+%F0%9F%A7%A0;AI+Products+%7C+Visual+Learning+%7C+Cognitive+Systems;Automation+%7C+Creative+AI+%7C+Agentic+Workflows;Finish+Engineering.+Ship+Real+Products." />
+
+<br/>
+
+<p>
+  <a href="https://roshan30-git.github.io/ROSHAN-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=webauthn&logoColor=FF7FAD" />
+  </a>
+  <a href="https://www.linkedin.com/in/roshankanojiya/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://linktr.ee/Roshan_Kanojiya">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black" />
+  </a>
+  <a href="mailto:roshankanojiya13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/roshan-kanojiya/badges">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=roshan30-git&color=FF7FAD&style=flat-square&label=Profile+Views" />
+
 </div>
+
+## 🧠 About Me
+
+```yaml
+name:      Roshan Kanojiya
+alias:     roshan30-git
+role:      AI Product Architect & Creative Technologist
+location:  Surat, Gujarat, India
+education: B.E. Computer Engineering @ SSASIT, Surat
+```
+
+I build AI products, automation systems, creative AI experiences, and digital infrastructure. Most of my projects start with a simple question: *"Why is this harder than it should be?"*
+
+My primary interest isn't automation itself—it's understanding how people think, learn, process information, and interact with technology. That is why my projects combine AI, cognitive design, visual learning, and workflow architecture.
+
+---
+
+## 🧠 Diagrammatics — Flagship Project
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Surat%2C+India-4D96FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/%F0%9F%8E%93-B.E.+Computer+Engineering-FF9F45?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/%E2%9A%A1-System+Designer-FFD600?style=for-the-badge&logoColor=black" />
+  <a href="https://github.com/Schemata-System/diagrammatics-core">
+    <img src="https://raw.githubusercontent.com/roshan30-git/ROSHAN-portfolio/main/image/diagmatics.webp" width="100%" alt="Diagrammatics Visual Learning Platform" />
+  </a>
 </p>
+
+An AI-native visual learning platform designed to reduce cognitive load by transforming dense PDFs, STEM content, and complex academic material into interactive diagrams, visual formulas, and cognitive learning structures.
+
+**Core Stack:** `Local RAG` · `Gemini` · `AgentScope` · `FastAPI` · `Next.js` · `Mermaid` · `Multimodal AI`
 
 ---
 
-## 🚀 The Mission
+## ⚙️ Tech Stack Ever Used
 
-I design and implement **production-ready systems** that orchestrate APIs, LLMs, data pipelines, and workflows with **deterministic behavior, cost control, and failure handling**. My focus is system architecture, not just automation.
-
-- ⚙️ **Reliable Orchestration**: Production-grade workflows with retries, dead-letter handling (DLQ), and idempotency.
-- 💰 **Cost-Aware AI**: LLM batching, caching, and model selection to minimize API spend.
-- 📦 **End-to-End Delivery**: From Prototype → Distributed Workflow → Operational Handoff.
-- 💡 **Ask Me About**: AI prototyping, automation hacks, or using AI efficiently on a budget.
+<table>
+  <tr>
+    <td align="center" width="200"><b>AI Systems & Product Engineering</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/AgentScope-FF7FAD?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vertex_AI-EA4335?style=flat-square&logo=google-cloud&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Workflow Orchestration</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Webhooks-FF6F00?style=flat-square&logo=webhooks&logoColor=white" />
+      <img src="https://img.shields.io/badge/API_Integrations-0D1117?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Development</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Creative AI & Deployment</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
-### Systems & Orchestration
-<p align="left">
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
-
-### AI & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google+Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vertex+AI-EA4335?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-### Frontend & Deployment
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
----
-
-## 📈 GitHub Ecosystem
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Roshan30-git&theme=radical&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshan30-git&show_icons=true&theme=radical&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=58A6FF&title_color=FF7FAD&hide_border=true" alt="GitHub Stats" width="100%" />
-</div>
+<img src="https://readme-stats-seven-rust.vercel.app/api?username=Roshan30-git&show_icons=true&theme=radical&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=58A6FF&title_color=FF7FAD&hide_border=true&rank_icon=github" width="49%" />
+<img src="https://readme-stats-seven-rust.vercel.app/api/top-langs/?username=Roshan30-git&layout=compact&theme=radical&bg_color=0D1117&text_color=58A6FF&title_color=FF7FAD&hide_border=true" width="49%" />
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Roshan30-git&theme=dark" alt="GitHub Streak" width="100%" /></a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan30-git&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=58A6FF&title_color=FF7FAD" alt="Top Languages" width="100%" />
 </div>
 
 ---
 
-## 🌟 Featured Orchestration Projects (n8n)
+## 🏆 Trophies
 
-| Project | Description | Nodes |
-| :--- | :--- | :---: |
-| [**Enterprise B2B Sales Orchestrator**](https://github.com/roshan30-git/n8n-workflows) | Lead extraction (Whisper) → Email sequences (Mailgun) → CRM tracking (Supabase). Production-grade automation. | **50** |
-| [**Steeve Automate: Viral AI News Agent**](https://github.com/roshan30-git/n8n-workflows) | RSS monitoring → GPT-4o script generation → HeyGen avatars → Creatomate video composition → Auto-posting. | **45+** |
-| [**Meta Ad Campaign Automation**](https://github.com/roshan30-git/n8n-workflows) | Campaign lifecycle & creative rotation across platforms. Multi-platform budget allocation & A/B testing. | **54** |
-| [**Instagram Auto-Posting**](https://github.com/roshan30-git/n8n-workflows) | Editorial calendar → LLM captions → Hashtag suggestions → Image optimization → Scheduled publishing. | **35** |
-| [**Document Q&A Chatbot**](https://github.com/roshan30-git/n8n-workflows) | RAG pipeline: PDF/text ingestion → Vectorization (FAISS) → LLM retrieval → Chat interface. | **20+** |
+<div align="center">
+
+<img src="https://github-profile-trophy-sahaj33.vercel.app/?username=Roshan30-git&theme=radical&no-bg=true&margin-w=4&row=1" />
+
+</div>
 
 ---
 
-## 📱 Product Showcases
+## 🚀 Deployed Mini Apps & Projects
 
-- **[GTU Copilot](https://github.com/roshan30-git/GTU-COPILOT)**: High-fidelity AI academic assistant for GTU students. Automates routine tasks, generates submission-ready reports & presentations with rate-limiting & OAuth.
-- **[Scholar Claw / StudyClaw](https://roshan30-git.github.io/picoclaw-scholar/)**: AI-native study infrastructure via WhatsApp/Telegram. BYOK model, free tier with Gemini Flash.
-- **[Gamma Studio](https://gamma-studio-watermark-remover-001.streamlit.app/)**: Studio-grade UI for PDF/PPTX watermark removal. Local-first, batch processing, privacy-focused.
-- **[GTU Design Thinking Canvas](https://gtu-dt-canvas.vercel.app/)**: Interactive Design Thinking workspace for engineering students. Real-time collaboration ready.
-- **[SemesterScan](https://semester-scan.vercel.app/)**: Privacy-first AI organizer for academic content (WhatsApp groups). Auto-categorizes and structures.
-- **[Jyotish.AI](https://github.com/roshan30-git/Jyotish.AI-Modern-Minimalist-Vedic-Astrology-Numerology-Powered-by-AI)**: Minimalist Vedic astrology app powered by Gemini. Clean, actionable insights.
+<table>
+  <tr>
+    <td width="33.3%" align="center">
+      <a href="https://ai.studio/apps/3fd6f644-e861-4f44-9d54-cd3a25d763ab?fullscreenApplet=true">
+        <img src="https://raw.githubusercontent.com/roshan30-git/ROSHAN-portfolio/main/image/thumbnail/Speaking_coach_bento_box_202606042235.jpeg" width="100%" alt="SpeechRhythm" /><br/>
+        <b>🎙️ SpeechRhythm</b>
+      </a>
+      <br/><em>Speaking Challenge + Gemini score</em>
+    </td>
+    <td width="33.3%" align="center">
+      <a href="https://ai.studio/apps/c7611464-6ab4-4761-953d-10a1d2497e05">
+        <img src="https://raw.githubusercontent.com/roshan30-git/ROSHAN-portfolio/main/image/thumbnail/Thought_Vault_app_interface_202606042234.jpeg" width="100%" alt="ADHDAssist" /><br/>
+        <b>🧩 ADHDAssist</b>
+      </a>
+      <br/><em>Neurodivergent productivity companion</em>
+    </td>
+    <td width="33.3%" align="center">
+      <a href="https://ai.studio/apps/3efe73b3-509d-4ed9-b6da-94f1cfda3e6d">
+        <img src="https://raw.githubusercontent.com/roshan30-git/ROSHAN-portfolio/main/image/thumbnail/Academic_workspace_with_AI_partner_202606042234.jpeg" width="100%" alt="GTU Copilot" /><br/>
+        <b>🎓 GTU Copilot</b>
+      </a>
+      <br/><em>AI academic agent for GTU students</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center">
+      <a href="https://remix-ssasit-navigator-391613367603.asia-southeast1.run.app/">
+        <img src="https://raw.githubusercontent.com/roshan30-git/ROSHAN-portfolio/main/image/thumbnail/Campus_map_with_directions_202606042234.jpeg" width="100%" alt="SSASIT Navigation" /><br/>
+        <b>🗺️ SSASIT Mapping</b>
+      </a>
+      <br/><em>Interactive campus navigation map</em>
+    </td>
+    <td width="33.3%" align="center">
+      <a href="https://gamma-studio-watermark-remover-001.streamlit.app/">
+        <img src="https://freeimage.host/i/Cf9wmzb" width="100%" alt="Gamma Watermark Remover" /><br/>
+        <b>🧹 Gamma Watermark Remover</b>
+      </a>
+      <br/><em>Local-first PDF/PPTX watermark cleaner</em>
+    </td>
+    <td width="33.3%" align="center">
+      <a href="https://ai.studio/apps/drive/1ckDpp4RdVDJBo1BYNesVeOMlSP4skhET?fullscreenApplet=true">
+        <img src="https://raw.githubusercontent.com/roshan30-git/ROSHAN-portfolio/main/image/thumbnail/Celestial_decision_making_app_UI_202606042234.jpeg" width="100%" alt="Cosmic.AI" /><br/>
+        <b>🔮 Cosmic.AI</b>
+      </a>
+      <br/><em>Vedic Astrology + Decision Support</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Achievements & Badges
+## ⚙️ n8n Automation Workflows
 
-- **18+ Google Cloud Badges**: GenAI, Vertex AI, Prompt Design, Cloud Architecture, and more.
-- **28+ GitHub Repositories**: Production systems, open-source tools, automation workflows.
-- **1,240+ Contributions**: Consistent shipping and building across public & private projects.
-- **20+ Production Systems**: Built for marketing, e-commerce, EdTech, and internal tooling.
-- **127-day Longest Streak**: Committed to continuous learning and execution.
-
-📜 **[View All Google Cloud Badges](https://www.credly.com/users/roshan-kanojiya/badges)**
-
----
-
-## 🎯 Why This Matters
-
-Started from the same place as most GTU students: **no tier-1 college brand, no campus placement pipeline**. Chose to **build instead of wait**.
-
-- Built **GTU Copilot** because report submissions were tedious
-- Built **StudyClaw** because WhatsApp study groups were chaotic
-- Built **SemesterScan** because organizing academic content sucks
-- Built **Meta Ad & Instagram workflows** as client projects (real revenue)
-- Built **Steeve Automate** as a POC that now runs daily
-
-**→ No placements. No HR filters. No tier-1 advantage. Just shipped work that solves real problems.**
+| Workflow                                       | Nodes | Description                                             |
+| ---------------------------------------------- | :---: | ------------------------------------------------------- |
+| **Enterprise B2B Sales Orchestrator**    |  50+  | Lead extraction → Email sequences → CRM tracking      |
+| **Steeve Automate: Viral AI News Agent** |  45+  | RSS → GPT-4o → HeyGen → Creatomate → Auto-post      |
+| **Meta Ad Campaign Automation**          |  54  | Creative rotation · Budget management · A/B testing   |
+| **Instagram Auto-Posting System**        |  35  | Editorial calendar → LLM captions → Scheduled publish |
+| **Document Q&A Chatbot (RAG)**           |  20+  | PDF ingestion → FAISS vectorize → LLM chat            |
 
 ---
 
-## 💼 Open To
+## 📈 Activity Graph
 
-✅ **Consulting** — Custom n8n workflows, system architecture, AI integrations  
-✅ **Startups** — Co-founding, technical leadership, product-market fit iteration  
-✅ **Collaborations** — Open-source contributions, joint research, proof-of-concepts  
-✅ **Teaching** — EdTech content, automation workshops, system design mentoring  
+<div align="center">
 
-📋 **[Service Inquiry Form](https://docs.google.com/forms/d/e/1FAIpQLScs5lXSH1EF0MhmGUAEts7RxFySeSHbogGY7b4EZR3XIE25vA/viewform)**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan30-git&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
 
 ---
 
-## 📫 Connect & Support
+## 🏅 Google Cloud Badges
 
-<p align="left">
-  <a href="mailto:roshankanojiya13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/roshankanojiya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/roshan30-git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linktr.ee/Roshan_Kanojiya"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
-  <a href="https://www.credly.com/users/roshan-kanojiya/badges"><img src="https://img.shields.io/badge/Credly-FF6B6B?style=for-the-badge&logo=credly&logoColor=white" /></a>
-</p>
+<div align="center">
+
+**18+ Skill Badges** across GenAI · Vertex AI · Prompt Design · Cloud Architecture · Speech & Language AI · ML Foundations
+
+<br/>
+
+<a href="https://www.credly.com/users/roshan-kanojiya/badges">
+  <img src="https://img.shields.io/badge/View%20All%20Badges%20on%20Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🎯 Currently
+
+```
+🔭  Building      →  Diagrammatics (AI-native visual learning platform)
+🧠  Exploring     →  Agentic AI, Local RAG, Cognitive Interfaces
+🌱  Learning      →  Multi-Agent Architectures, Product Design
+♟️  Playing       →  Chess (~1500 Elo)
+🎯  Goal          →  Finish Engineering While Shipping Real Products
+```
+
+---
+
+## 🤝 Open To
+
+✅ AI Products & Startups
+
+✅ Cognitive & Learning Systems
+
+✅ Open Source Collaborations
+
+✅ Interesting Ideas Worth Building
+
+---
+
+## 📫 Connect
+
+<div align="center">
+
+`<a href="https://roshan30-git.github.io/ROSHAN-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />``</a>`
+`<a href="https://www.linkedin.com/in/roshankanojiya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />``</a>`
+`<a href="https://linktr.ee/Roshan_Kanojiya"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black" />``</a>`
+`<a href="https://github.com/roshan30-git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />``</a>`
+`<a href="mailto:roshankanojiya13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />``</a>`
+
+</div>
 
 ---
 
 <div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Roshan30-git&color=FF7FAD&style=flat-square" alt="Profile Views" />
-  <br/>
-  <p><strong>© 2026 Roshan Kanojiya</strong></p>
-  <p><em>Built with ☕ and hard shadows</em></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+
+**Build. Learn. Ship. Repeat.**
+
 </div>
